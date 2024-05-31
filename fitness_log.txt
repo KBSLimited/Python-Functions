@@ -1,3 +1,6 @@
 Running: 30 minutes
 Weightlifting: 45 minutes
 Yoga: 60 minutes
+Running: 30 minutes
+Weightlifting: 45 minutes
+Yoga: 60 minutes
